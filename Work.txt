@@ -4,15 +4,15 @@ Hello,  Welcome to the institute.
                               .java
 			      .c
 			      .javaScript
-			      .html
+			      .REACT
 			      .css
-      			      .sql
+      			      
 
 
   The avalable Advance courses are :
                               .JDBC
 			      .J2EE
 			      .SPRING
-			      .NODE
-      			      .ANGULAR
+			      .NODE JS
+      			      
 
