@@ -1,0 +1,19 @@
+Hello,  Welcome to the institute.
+
+   The avalable Basic courses are :
+                              .java
+			      .c
+			      .javaScript
+			      .html
+			      .css
+      			      .sql
+
+
+  The avalable Advance courses are :
+                              .JDBC
+			      .J2EE
+			      .SPRING
+			      .HYBERNET
+			      .NODE
+      			      .ANGULAR
+
