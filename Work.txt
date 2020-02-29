@@ -1,18 +1,19 @@
 Hello,  Welcome to the institute.
 
    The avalable Basic courses are :
-                              .java
-			      .c
-			      .javaScript
-			      .html
-			      .css
-      			      .sql
+                              .CORE JAVA
+			      .C++
+			      .ECMASCRIPT
+			      .HTML5
+			      .CSS3
+      			      .Oracle SQL
 
 
   The avalable Advance courses are :
-                              .JDBC
-			      .J2EE
-			      .SPRING
-			      .NODE
-      			      .ANGULAR
+                              .JSP
+			      .J2ME
+			      .DJANGO
+			      .BOOTSTRAP
+      			      .ANGULAR-8
+			      .Phython
 
