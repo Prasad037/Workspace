@@ -13,7 +13,6 @@ Hello,  Welcome to the institute.
                               .JDBC
 			      .J2EE
 			      .SPRING
-			      .HYBERNET
 			      .NODE
       			      .ANGULAR
 
