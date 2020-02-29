@@ -1,6 +1,7 @@
 Hello,  Welcome to the institute.
 
    The avalable Basic courses are :
+
                               .java
 			      .c
 			      .javaScript
@@ -15,4 +16,21 @@ Hello,  Welcome to the institute.
 			      .SPRING
 			      .NODE JS
       			      
+
+                              .CORE JAVA
+			      .C++
+			      .ECMASCRIPT
+			      .HTML5
+			      .CSS3
+      			      .Oracle SQL
+
+
+  The avalable Advance courses are :
+                              .JSP
+			      .J2ME
+			      .DJANGO
+			      .BOOTSTRAP
+      			      .ANGULAR-8
+			      .Phython
+
 
